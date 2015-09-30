@@ -1,0 +1,3 @@
+Readme Breakout
+
+When finishing the game I decided to add a background by finding a wallpaper in google image with a resolution 600x500, later I changed the color of the bricks and the paddle. I lowered the brick array to add a score timer, and when the ball falls it displays game over and the final score

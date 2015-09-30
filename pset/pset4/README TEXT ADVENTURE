@@ -1,0 +1,10 @@
+README TEXT ADVENTURE
+
+In this text adventure you're supposed to be the Grim Reaper.
+The objective of the game is to collect a certain amount of souls.
+When inputing your arguments make sure you use a dash "-" between the locations that have more than two words.
+In order to go places, just type go and the destination.
+There is also certain items in certain locations where some items you must get them by opening chests or killing enemies.
+There are a few errors. When trying to get that when my ArrayList contains certain objects it won't compile correctly.
+Also there are some errors when trying to take a few objects.
+Other than that it should wor fine. I'll release a patch later on :).
